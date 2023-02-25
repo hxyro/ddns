@@ -1,0 +1,9 @@
+{
+  "auth_email": "m@example.com",
+  "auth_method": "global",
+  "auth_key": "asdfghjkl",
+  "zone_identifier": "asdfghjkl",
+  "record_name": "m.example.com",
+  "ttl": 3600,
+  "proxy": false
+}
